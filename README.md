@@ -5,7 +5,7 @@ Dumped with heart by Android#1212
 
 
 ```cpp
-UWORLD: 0x9795410
+UWORLD: 0x9799F10
 
 Others:
 Engine::World::Levels: 0x138
