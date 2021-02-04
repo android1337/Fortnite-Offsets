@@ -8,6 +8,16 @@ Dumped with heart by Android#1212
 UWORLD: 0x9799F10
 
 Others:
+Engine::FortMeatballVehicle::FortMeatballVehicleConfigsClass: 0x13F8
+Engine::FortMeatballVehicleConfigs::BoostMinPushForce: 0x610
+Engine::FortMeatballVehicleConfigs::BoostTopSpeedForceMultiplier: 0x614
+Engine::FortMeatballVehicleConfigs::BoostTopSpeedMultiplier: 0x618
+Engine::FortMeatballVehicleConfigs::LandTopSpeedMultiplier: 0x620
+Engine::FortMeatballVehicleConfigs::LandPushForceMultiplier: 0x624
+Engine::FortMeatballVehicleConfigs::BoostSteeringMultiplier: 0x664
+Engine::FortMeatballVehicleConfigs::LandSteeringMultiplier: 0x66C
+Engine::FortMeatballVehicleConfigs::LandMinSpeedSteeringAngle: 0x670
+Engine::FortMeatballVehicleConfigs::LandMaxSpeedSteeringAngle: 0x674
 Engine::World::Levels: 0x138
 Engine::World::PersistentLevel: 0x30
 Engine::GameInstance::LocalPlayers: 0x38
@@ -23,9 +33,9 @@ Engine::SceneComponent::ComponentVelocity: 0x140
 Engine::StaticMeshComponent::StaticMesh: 0x480
 Engine::SkinnedMeshComponent::CachedWorldSpaceBounds: 0x600
 Engine::Actor::CustomTimeDilation: 0x98
-PlayerController: 0x30
 FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTimeVerified: 0x8F0
 FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTime: 0x8EC
+FortniteGame::Offsets::FortniteGame::FortWeapon::IsReloading: 0x2B1
 FortniteGame::FortPawn::bIsDBNO: 0x552
 FortniteGame::FortPawn::bIsDying: 0x538
 FortniteGame::FortPlayerStateAthena::TeamIndex: 0xEB8
@@ -54,28 +64,5 @@ FortniteGame::FortRangedWeaponStats::MinSpeedForSpreadMultiplier: 0x174
 FortniteGame::FortRangedWeaponStats::MaxSpeedForSpreadMultiplier: 0x178
 FortniteGame::BuildingContainer::bAlreadySearched: 0xC41
 Offsets::Engine::Controller::RemoteViewPitch: 0x232
-PlayerController: 0x30
-RelativeRotation: 0x128
-BoostCoolDown: 0x67C
-BoostDuration: 0x678
-BoostForce: 0x670
-BoostMaxSpeedKmh: 0x674
-LiftForce: 0x614
-MaxLiftSpeedKmh: 0x618
-MaxStrafeSpeedKmh: 0x608
-StrafeForce: 0x600
-BoostMinPushForce 0x610
-BoostSteeringMultiplier 0x664
-BoostTopSpeedForceMultiplier 0x614
-BoostTopSpeedMultiplier 0x618
-LandMaxSpeedSteeringAngle 0x674
-LandMinSpeedSteeringAngle 0x670
-LandPushForceMultiplier 0x624
-LandSteeringMultiplier 0x66C
-LandTopSpeedMultiplier 0x620
-HoagieVehicleConfigs 0x0
-MeatballVehicleConfigs 0x0
-SpectatorPawn 0x548
-bIsReloadingWeapon 0x2B1
-PlayerState 0x22A
+FortniteGame::BuildingWeakSpot::bActive: 0x238
 ```
