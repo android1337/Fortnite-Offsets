@@ -6,7 +6,7 @@ Dumped with heart by Android#1212
 
 ```cpp
 
-UWORLD 0x9989C10
+UWORLD 0x998AC10
 
 Others:
 Engine::FortMeatballVehicle::FortMeatballVehicleConfigsClass: 0x13D0
