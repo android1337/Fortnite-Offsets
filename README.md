@@ -1,6 +1,6 @@
 # Fortnite-Offsets
 Fortnite Offsets Latest Updated Every Update
-
+Season 6 updated
 Dumped with heart by Android#1212
 
 
