@@ -5,65 +5,36 @@ Dumped with heart by Android#1212
 
 
 ```cpp
-
-UWORLD: 0x9412AA0
-
-Others:
-Engine::FortMeatballVehicle::FortMeatballVehicleConfigsClass: 0x13D0
-Engine::FortMeatballVehicleConfigs::BoostMinPushForce: 0x678
-Engine::FortMeatballVehicleConfigs::BoostTopSpeedForceMultiplier: 0x67C
-Engine::FortMeatballVehicleConfigs::BoostTopSpeedMultiplier: 0x680
-Engine::FortMeatballVehicleConfigs::LandTopSpeedMultiplier: 0x688
-Engine::FortMeatballVehicleConfigs::LandPushForceMultiplier: 0x68C
-Engine::FortMeatballVehicleConfigs::BoostSteeringMultiplier: 0x6CC
-Engine::FortMeatballVehicleConfigs::LandSteeringMultiplier: 0x6D4
-Engine::FortMeatballVehicleConfigs::LandMinSpeedSteeringAngle: 0x6D8
-Engine::FortMeatballVehicleConfigs::LandMaxSpeedSteeringAngle: 0x6DC
-Engine::World::Levels: 0x138
-Engine::World::PersistentLevel: 0x30
-Engine::GameInstance::LocalPlayers: 0x38
-Engine::World::OwningGameInstance: 0x180
-Engine::Controller::ControlRotation: 0x288
-Engine::PlayerController::PlayerCameraManager: 0x2B8
-Engine::PlayerController::AcknowledgedPawn: 0x2A0
-Engine::Pawn::PlayerState: 0x240
-Engine::Actor::RootComponent: 0x130
-Engine::Character::Mesh: 0x280
-Engine::SceneComponent::RelativeLocation: 0x11C
-Engine::SceneComponent::ComponentVelocity: 0x140
-Engine::StaticMeshComponent::StaticMesh: 0x480
-Engine::SkinnedMeshComponent::CachedWorldSpaceBounds: 0x600
-Engine::Actor::CustomTimeDilation: 0x98
-FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTimeVerified: 0x900
-FortniteGame::Offsets::FortniteGame::FortWeapon::LastFireTime: 0x8FC
-FortniteGame::Offsets::FortniteGame::FortWeapon::IsReloading: 0x2B1
-FortniteGame::FortPawn::bIsDBNO: 0x552
-FortniteGame::FortPawn::bIsDying: 0x538
-FortniteGame::FortPlayerStateAthena::TeamIndex: 0xEC0
-FortniteGame::FortPickup::PrimaryPickupItemEntry: 0x2A8
-FortniteGame::FortItemDefinition::DisplayName: 0x80
-FortniteGame::FortItemDefinition::Tier: 0x64
-FortniteGame::FortItemEntry::ItemDefinition: 0x18
-FortniteGame::FortPawn::CurrentWeapon: 0x5D0
-FortniteGame::FortWeapon::WeaponData: 0x378
-FortniteGame::FortWeapon::LastFireAbilityTime: 0xB40
-FortniteGame::FortWeaponItemDefinition::WeaponStatHandle: 0x810
-FortniteGame::FortProjectileAthena::FireStartLoc: 0x878
-FortniteGame::FortBaseWeaponStats::ReloadTime: 0xFC
-FortniteGame::FortBaseWeaponStats::ReloadScale: 0x100
-FortniteGame::FortBaseWeaponStats::ChargeDownTime: 0x12C
-FortniteGame::FortRangedWeaponStats::RecoilHoriz: 0x200
-FortniteGame::FortRangedWeaponStats::RecoilVert: 0x1F0
-FortniteGame::FortRangedWeaponStats::RecoilDownsightsMultiplier: 0x21C
-FortniteGame::FortRangedWeaponStats::Spread: 0x15C
-FortniteGame::FortRangedWeaponStats::SpreadDownsights: 0x160
-FortniteGame::FortRangedWeaponStats::StandingStillSpreadMultiplier: 0x164
-FortniteGame::FortRangedWeaponStats::AthenaJumpingFallingSpreadMultiplier: 0x16C
-FortniteGame::FortRangedWeaponStats::AthenaCrouchingSpreadMultiplier: 0x168
-FortniteGame::FortRangedWeaponStats::AthenaSprintingSpreadMultiplier: 0x21C
-FortniteGame::FortRangedWeaponStats::MinSpeedForSpreadMultiplier: 0x174
-FortniteGame::FortRangedWeaponStats::MaxSpeedForSpreadMultiplier: 0x178
-FortniteGame::BuildingContainer::bAlreadySearched: 0xC61
-Offsets::Engine::Controller::RemoteViewPitch: 0x232
-
+Uworld: 0x9412AA0
+GoObject: 0x9246BC0
+Levels: 0x138
+PersistentLevel: 0x30
+LocalPlayers: 0x38
+TeamIndex: 0xED0
+OwningGameInstance: 0x180
+Camera Pitch: 0x7F8
+Camera Yaw: 0x12C
+Camera Zoom: 0x590
+ControlRotation: 0x288
+PlayerCameraManager: 0x2B8
+Mesh: 0x280
+StaticMesh: 0x4A8
+AcknowledgedPawn: 0x2A0
+PlayerState: 0x240
+RFootComponent: 0x130
+RelativeLocation: 0x11C
+ComponentVelocity: 0x140
+CustomTimeDilation: 0x98
+IsReloading: 0x2B1
+bIsDBNO: 0x552
+bIsDying: 0x538
+PrimaryPickupItemEntry: 0x2A8
+DisplayName: 0x80
+Tier: 0x64
+ItemDefinition: 0x18
+CurrentWeapon: 0x5D0
+ChargeDownTime: 0x12C
+bAlreadySearched: 0xC61
+Spread: 0x15C
+SpreadDownsights: 0x160
 ```
