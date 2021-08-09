@@ -5,8 +5,7 @@ Dumped with heart by android#1337
 
 
 ```cpp
-
-Uworld: 0x9864730
+Uworld: 0x9352870 (http://xenos.sexy/dumper)
 Levels: 0x138
 PersistentLevel: 0x30
 LocalPlayers: 0x38
