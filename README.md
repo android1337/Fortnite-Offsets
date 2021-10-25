@@ -1,7 +1,6 @@
 # Fortnite-Offsets
-Fortnite Offsets Latest Updated Every Update
+Fortnite Offsets
 Latest Patch updated
-Dumped with heart by android#1337
 
 
 ```cpp
