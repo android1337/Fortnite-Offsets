@@ -5,14 +5,12 @@ Dumped with heart by android#1337
 
 
 ```cpp
-Uworld: 0x9352870 (http://xenos.sexy/dumper)
-Levels: 0x138
+Levels: 0x140
 PersistentLevel: 0x30
 LocalPlayers: 0x38
-OwningGameInstance: 0x180
+OwningGameInstance: 0x188
 ControlRotation: 0x288
 PlayerCameraManager: 0x2B8
-ClientReturnToMainMenuWithTextReason: 0x0
 AcknowledgedPawn: 0x2A0
 PlayerState: 0x240
 RootComponent: 0x130
@@ -26,13 +24,13 @@ LastFireTimeVerified: 0x9C0
 LastFireTime: 0x9BC
 bIsDBNO: 0x57E
 bSpotted: 0x542
-TeamIndex: 0xED0
+TeamIndex: 0xED8
 SquadId: 0x1054
 PrimaryPickupItemEntry: 0x2A8
 DisplayName: 0x88
 Tier: 0x6C
 ItemDefinition: 0x18
-CurrentWeapon: 0x600
+CurrentWeapon: 0x610
 WeaponData: 0x378
 LastFireAbilityTime: 0xC08
 WeaponStatHandle: 0x820
