@@ -47,3 +47,5 @@ Latest Patch updated
   FortWeapon.WeaponReloadMontage                       ->   0x1298
   FortWeapon.ReloadAnimation                           ->   0x1268
 ```
+
+If you have any troubles dm me on discord: android#6969
