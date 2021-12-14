@@ -4,48 +4,48 @@ Latest Patch updated
 
 
 ```cpp
-  UWorld                                               ->   0xB731340
-  World.Levels                                         ->   0x148
-  World.PersistentLevel                                ->   0x30
-  GameInstance.LocalPlayers                            ->   0x38
-  World.OwningGameInstance                             ->   0x190
-  Controller.ControlRotation                           ->   0x290
-  PlayerController.PlayerCameraManager                 ->   0x2C0
-  PlayerController.AcknowledgedPawn                    ->   0x2A8
-  Pawn.PlayerState                                     ->   0x238
-  Actor.RootComponent                                  ->   0x130
-  Character.Mesh                                       ->   0x280
-  SceneComponent.RelativeLocation                      ->   0x11C
-  SceneComponent.ComponentVelocity                     ->   0x140
-  StaticMeshComponent.StaticMesh                       ->   0x488
-  StaticMeshComponent.ComponentToWorld                 ->   0x0
-  SkinnedMeshComponent.CachedWorldSpaceBounds          ->   0x638
-  Actor.CustomTimeDilation                             ->   0x98
-  FortWeapon.LastFireTimeVerified                      ->   0x9E8
-  FortWeapon.LastFireTime                              ->   0x9E4
-  FortPawn.bIsDBNO                                     ->   0x572
-  FortPawn.bIsDying                                    ->   0x548
-  FortPlayerStateAthena.TeamIndex                      ->   0xF28
-  FortPickup.PrimaryPickupItemEntry                    ->   0x2A0
-  FortItemDefinition.DisplayName                       ->   0x88
-  FortItemDefinition.Tier                              ->   0x6C
-  FortItemEntry.ItemDefinition                         ->   0x18
-  FortPawn.CurrentWeapon                               ->   0x5F8
-  FortWeapon.WeaponData                                ->   0x378
-  Pawn.RemoteViewPitch                                 ->   0x22A
-  FortWeapon.LastFireAbilityTime                       ->   0x1238
-  FortWeaponItemDefinition.WeaponStatHandle            ->   0x8B8
-  FortProjectileAthena.FireStartLoc                    ->   0x8B8
-  FortBaseWeaponStats.ReloadTime                       ->   0x10C
-  FortBaseWeaponStats.ReloadScale                      ->   0x110
-  FortBaseWeaponStats.ChargeDownTime                   ->   0x13C
-  FortRangedWeaponStats.RecoilHoriz                    ->   0x21C
-  FortRangedWeaponStats.RecoilVert                     ->   0x20C
-  FortRangedWeaponStats.RecoilDownsightsMultiplier     ->   0x238
-  FortPlayerPawnAthena.ReviveFromDBNOTime              ->   0x3758
-  FortPlayerPawnAthena.bADSWhileNotOnGround            ->   0x3E51
-  FortWeapon.WeaponReloadMontage                       ->   0x1298
-  FortWeapon.ReloadAnimation                           ->   0x1268
+    uintptr_t GObjects = 0xB5BC760;
+    uintptr_t UWorld = 0xB78BC30;
+    uintptr_t Levels = 0x148;
+    uintptr_t PersistentLevel = 0x30;
+    uintptr_t LocalPlayers = 0x38;
+    uintptr_t OwningGameInstance = 0x190;
+    uintptr_t ControlRotation = 0x290;
+    uintptr_t PlayerCameraManager = 0x2C0;
+    uintptr_t AcknowledgedPawn = 0x2A8;
+    uintptr_t PlayerState = 0x238;
+    uintptr_t RootComponent = 0x130;
+    uintptr_t Mesh = 0x280;
+    uintptr_t RelativeLocation = 0x11C;
+    uintptr_t ComponentVelocity = 0x140;
+    uintptr_t StaticMesh = 0x488;
+    uintptr_t CachedWorldSpaceBounds = 0x638;
+    uintptr_t CustomTimeDilation = 0x98;
+    uintptr_t LastFireTimeVerified = 0x9E8;
+    uintptr_t LastFireTime = 0x9E4;
+    uintptr_t bIsDBNO = 0x572;
+    uintptr_t bIsDying = 0x548;
+    uintptr_t TeamIndex = 0xF28;
+    uintptr_t PrimaryPickupItemEntry = 0x2A0;
+    uintptr_t DisplayName = 0x88;
+    uintptr_t Tier = 0x6C;
+    uintptr_t ItemDefinition = 0x18;
+    uintptr_t CurrentWeapon = 0x5F8;
+    uintptr_t WeaponData = 0x378;
+    uintptr_t RemoteViewPitch = 0x22A;
+    uintptr_t LastFireAbilityTime = 0x1238;
+    uintptr_t WeaponStatHandle = 0x8B8;
+    uintptr_t FireStartLoc = 0x8B8;
+    uintptr_t ReloadTime = 0x10C;
+    uintptr_t ReloadScale = 0x110;
+    uintptr_t ChargeDownTime = 0x13C;
+    uintptr_t RecoilHoriz = 0x21C;
+    uintptr_t RecoilVert = 0x20C;
+    uintptr_t RecoilDownsightsMultiplier = 0x238;
+    uintptr_t ReviveFromDBNOTime = 0x3758;
+    uintptr_t bADSWhileNotOnGround = 0x3E51;
+    uintptr_t WeaponReloadMontage = 0x1298;
+    uintptr_t ReloadAnimation = 0x1268;
 ```
 
 If you have any troubles dm me on discord: android#6969
