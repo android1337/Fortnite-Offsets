@@ -48,4 +48,4 @@ Latest Patch updated
     uintptr_t ReloadAnimation = 0x1268;
 ```
 
-If you have any troubles dm me on discord: android#6969
+If you have any troubles dm me on discord: android#1337
